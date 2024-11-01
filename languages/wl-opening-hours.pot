@@ -1,0 +1,390 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WL Opening Hours\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 09:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.1"
+
+#: WLOpeningHours.class.php:336
+msgid "A set of opening hours for a venue"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:62
+msgid "Accordion"
+msgstr ""
+
+#: WLOpeningHours.class.php:315
+msgid "Add New"
+msgstr ""
+
+#: WLOpeningHours.class.php:314
+msgid "Add New Item"
+msgstr ""
+
+#: WLOpeningHours.class.php:368
+msgid "Add new venue"
+msgstr ""
+
+#: WLOpeningHours.class.php:373
+msgid "Add or remove venues"
+msgstr ""
+
+#: WLOpeningHours.class.php:434
+msgid "afternoon"
+msgstr ""
+
+#: WLOpeningHours.class.php:178
+msgid "Afternoon hours"
+msgstr ""
+
+#: WLOpeningHours.class.php:313
+msgid "All Items"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:88 WLOpeningHours.class.php:364
+#: WLOpeningHours.class.php:437 templates/tabbed.php:35
+#: templates/accordion.php:44
+msgid "All venues"
+msgstr ""
+
+#: WLOpeningHours.class.php:178
+msgid "Asterisk"
+msgstr ""
+
+#: WLOpeningHours.class.php:435
+msgid "asterisk"
+msgstr ""
+
+#: WLOpeningHours.class.php:374
+msgid "Choose from the most used"
+msgstr ""
+
+#: WLOpeningHours.class.php:189
+msgid "Copy previous line"
+msgstr ""
+
+#: WLOpeningHours.class.php:178
+msgid "Day"
+msgstr ""
+
+#: WLOpeningHours.class.php:436
+msgid "description"
+msgstr ""
+
+#: WLOpeningHours.class.php:100
+msgid "Description/Explanation"
+msgstr ""
+
+#: WLOpeningHours.class.php:317
+msgid "Edit Item"
+msgstr ""
+
+#: WLOpeningHours.class.php:369
+msgid "Edit venue"
+msgstr ""
+
+#: WLOpeningHours.class.php:274
+msgid "Example Options setting"
+msgstr ""
+
+#: WLOpeningHours.class.php:126 WLOpeningHours.class.php:132
+msgid "Expired"
+msgstr ""
+
+#: WLOpeningHours.class.php:296
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: WLOpeningHours.class.php:324
+msgid "Featured Image"
+msgstr ""
+
+#: WLOpeningHours.class.php:332
+msgid "Filter items list"
+msgstr ""
+
+#: WLOpeningHours.class.php:430
+msgid "friday"
+msgstr ""
+
+#: WLOpeningHours.class.php:99
+msgid "Hours"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wl-opening-hours/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wp-hosting.no/"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:101
+msgid "If showing several sets of opening hours, use these views"
+msgstr ""
+
+#: WLOpeningHours.class.php:151
+msgid "If you are using this in a template, use "
+msgstr ""
+
+#: WLOpeningHours.class.php:328
+msgid "Insert into item"
+msgstr ""
+
+#: WLOpeningHours.class.php:263
+msgid "Insufficient privileges"
+msgstr ""
+
+#: WLOpeningHours.class.php:310
+msgid "Item Archives"
+msgstr ""
+
+#: WLOpeningHours.class.php:311
+msgid "Item Attributes"
+msgstr ""
+
+#: WLOpeningHours.class.php:330
+msgid "Items list"
+msgstr ""
+
+#: WLOpeningHours.class.php:331
+msgid "Items list navigation"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:62
+msgid "List"
+msgstr ""
+
+#: WLOpeningHours.class.php:426
+msgid "monday"
+msgstr ""
+
+#: WLOpeningHours.class.php:433
+msgid "morning"
+msgstr ""
+
+#: WLOpeningHours.class.php:178
+msgid "Morning hours"
+msgstr ""
+
+#: WLOpeningHours.class.php:316
+msgid "New Item"
+msgstr ""
+
+#: WLOpeningHours.class.php:367
+msgid "New venue"
+msgstr ""
+
+#: WLOpeningHours.class.php:378
+msgid "No venues"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:75
+msgid "None"
+msgstr ""
+
+#: WLOpeningHours.class.php:377
+msgid "Not Found"
+msgstr ""
+
+#: WLOpeningHours.class.php:322
+msgid "Not found"
+msgstr ""
+
+#: WLOpeningHours.class.php:323
+msgid "Not found in Trash"
+msgstr ""
+
+#. Base ID
+#: WLOpeningHoursWidget.class.php:33
+msgid "Opening Hours"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Opening-hours shortcodes and widgets for any number of departments/venues"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:83
+msgid "Or show for these venues:"
+msgstr ""
+
+#: WLOpeningHours.class.php:365
+msgid "Parent Item"
+msgstr ""
+
+#: WLOpeningHours.class.php:312 WLOpeningHours.class.php:366
+msgid "Parent Item:"
+msgstr ""
+
+#: WLOpeningHours.class.php:375
+msgid "Popular venues"
+msgstr ""
+
+#: WLOpeningHours.class.php:306
+msgctxt "Post Type General Name"
+msgid "WL Opening Hours"
+msgstr ""
+
+#: WLOpeningHours.class.php:307
+msgctxt "Post Type Singular Name"
+msgid "WL Opening Hours"
+msgstr ""
+
+#: WLOpeningHours.class.php:188
+msgid "Remove"
+msgstr ""
+
+#: WLOpeningHours.class.php:326
+msgid "Remove featured image"
+msgstr ""
+
+#: WLOpeningHours.class.php:431
+msgid "saturday"
+msgstr ""
+
+#: WLOpeningHours.class.php:278
+msgid "Save Changes"
+msgstr ""
+
+#: WLOpeningHours.class.php:321
+msgid "Search Item"
+msgstr ""
+
+#: WLOpeningHours.class.php:376
+msgid "Search venues"
+msgstr ""
+
+#: WLOpeningHours.class.php:372
+msgid "Separate venues with commas"
+msgstr ""
+
+#: WLOpeningHours.class.php:325
+msgid "Set featured image"
+msgstr ""
+
+#: WLOpeningHours.class.php:97
+msgid "Shortcodes"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:72
+msgid "Single opening hour entry"
+msgstr ""
+
+#: WLOpeningHours.class.php:432
+msgid "sunday"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:62
+msgid "Tabbed"
+msgstr ""
+
+#: WLOpeningHours.class.php:361
+msgctxt "Taxonomy General Name"
+msgid "Venues"
+msgstr ""
+
+#: WLOpeningHours.class.php:362
+msgctxt "Taxonomy Singular Name"
+msgid "Venue"
+msgstr ""
+
+#: WLOpeningHours.class.php:429
+msgid "thursday"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:56
+msgid "Title"
+msgstr ""
+
+#: WLOpeningHours.class.php:427
+msgid "tuesday"
+msgstr ""
+
+#: WLOpeningHours.class.php:318
+msgid "Update Item"
+msgstr ""
+
+#: WLOpeningHours.class.php:370
+msgid "Update venue"
+msgstr ""
+
+#: WLOpeningHours.class.php:329
+msgid "Uploaded to this item"
+msgstr ""
+
+#: WLOpeningHours.class.php:327
+msgid "Use as featured image"
+msgstr ""
+
+#: WLOpeningHours.class.php:144
+msgid "Use these shortcodes to use this opening hour element in your pages:"
+msgstr ""
+
+#: WLOpeningHours.class.php:363
+msgid "Venues"
+msgstr ""
+
+#: WLOpeningHours.class.php:379
+msgid "Venues list"
+msgstr ""
+
+#: WLOpeningHours.class.php:380
+msgid "Venues list navigation"
+msgstr ""
+
+#: WLOpeningHours.class.php:319
+msgid "View Item"
+msgstr ""
+
+#: WLOpeningHours.class.php:320
+msgid "View Items"
+msgstr ""
+
+#: WLOpeningHours.class.php:371
+msgid "View venue"
+msgstr ""
+
+#: WLOpeningHours.class.php:428
+msgid "wednesday"
+msgstr ""
+
+#: WLOpeningHoursWidget.class.php:69
+msgid "Widget Title:"
+msgstr ""
+
+#. Name of the plugin
+#: WLOpeningHours.class.php:308 WLOpeningHours.class.php:309
+#: WLOpeningHours.class.php:335
+msgid "WL Opening Hours"
+msgstr ""
+
+#: WLOpeningHours.class.php:268
+msgid "WL Opening Hours Options"
+msgstr ""
+
+#: WLOpeningHours.class.php:272
+msgid "WL Opening Hours Something"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Hosting"
+msgstr ""
+
+#: WLOpeningHours.class.php:149
+msgid ""
+"You can use the argument 'view' with values 'list', 'tabbed' or 'accordion'"
+msgstr ""

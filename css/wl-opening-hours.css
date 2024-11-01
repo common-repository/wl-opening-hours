@@ -1,0 +1,100 @@
+/* General */
+.wl-opening-hours .wl-day-entry.current td {
+ font-weight: bold;
+}
+.wl-opening-hours .wl-day-entry .day .asterisk {
+ font-weight: 300; 
+}
+.wl-opening-hours .description {
+ padding: 0 1em;
+ margin:0;
+}
+.wl-opening-hours.tabbed .wl-opening-hours table {
+ table-layout: fixed;
+ width: 100%;
+}
+
+/* Tabs */
+.wl-opening-hours.tabbed .tabs .wl-opening-hours-tab {
+ display:inline-block;
+ background: transparent;
+ padding: 0 1em 0 1em ;
+ cursor: pointer;
+}
+.wl-opening-hours.tabbed .tabs .wl-opening-hours-tab h3 {
+ border: none;
+ padding:0;
+ margin:0;
+ font-size: medium;
+}
+.wl-opening-hours.tabbed .tabs .wl-opening-hours-tab.active {
+ background: rgba(0,0,0,0.05);
+}
+.wl-opening-hours.tabbed .tabdisplay{
+ display:none;
+ border: 1px solid rgba(0,0,0,0.1);
+}
+.wl-opening-hours.tabbed .tabdisplay.active{
+ display:block;
+}
+
+/* Accordion */
+.wl-opening-hours.accordion .wl-opening-hours table {
+ table-layout: fixed;
+ width: 100%;
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay .wl-accordion-header {
+ cursor:pointer;
+ width:100%;
+ padding: .5em;
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay .wl-accordion-header .todayshours div{
+ display: inline-block;
+}
+
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay h3 {
+ font-size:medium;
+ border: none;
+ margin:0;
+ width:100%;
+ display: flex;
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay .wl-accordion-header .venuename {
+
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay .wl-accordion-header .todayshours {
+ max-width: 50%;
+ margin-left: auto;
+ order:2;
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay .todayshours .morning{
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay .todayshours .afternoon{
+}
+
+
+
+.wl-opening-hours.accordion {
+ border: 1px solid rgba(0,0,0,0.1);
+ border-bottom: none;
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay {
+ border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay.active .todayshours {
+ display:none;
+}
+
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay table {
+ display:none;
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay .description {
+ display:none;
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay.active table {
+ display:table;
+}
+.wl-opening-hours.accordion .wl-opening-hours.accordiondisplay.active .description {
+ display:block;
+}
